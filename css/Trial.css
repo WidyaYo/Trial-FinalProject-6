@@ -21,10 +21,10 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .navbar .logo {
-width: 160px;
+width: 130px;
 }
 
-.navbar. nav-link {
+.navbar.nav-link {
     font-size: 14px;
     font-weight: 700;
 }
@@ -54,4 +54,30 @@ width: 160px;
     z-index: -1;
  }
 
+ section {
+   padding-top: 120px;
+   padding-bottom: 120px;
+
+ }
+
+ .c-item {
+    height: 480px;
+
+
+
+ }
+ .c-img {
+    height: 100%;
+    object-fit: cover;
+ }
+ .header-carousel {
+    text-shadow: 1px 1px white;
+    text-align-last: center;
+    text-emphasis-color: purple;
+ }
+
+ .text-carousel {
+    text-shadow: 1px 1px black;
+    font-weight: 700;
+ }
 
