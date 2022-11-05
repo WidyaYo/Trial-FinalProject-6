@@ -17,14 +17,24 @@ h1,h2,h3,h4,h5,h6,
 .display-4 {
     color: rgb(25, 18, 54);
     text-align: left;
-    font-weight: bold;
+    font-weight: 700;
 }
+
 .navbar .logo {
 width: 160px;
-
-
 }
 
+.navbar. nav-link {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.btn {
+    padding: 14px 18px;
+    border-width: 2px;
+    border-radius: 0;
+
+}
 
 .hero {
     background-image: url(../T-images/background2.jpg); opacity: 80%;
