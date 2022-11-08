@@ -6,6 +6,13 @@
     --body: hsl(248, 57%, 18%) ;
     --box-shadow: 0 8px 22px rgba(0,0,0,0.1);
 }
+.nav ul{
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+
+}
 
 body {
     font-family: Poppins , sans-serif;
@@ -27,6 +34,7 @@ width: 130px;
 .navbar.nav-link {
     font-size: 14px;
     font-weight: 700;
+    
 }
 
 .btn {
